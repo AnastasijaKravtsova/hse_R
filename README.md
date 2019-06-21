@@ -1,2 +1,2 @@
 # hse_R
-Materials on course 'Quantitative analysis and data visualisation' (HSE, spring-summer 2019)
+Materials on term project for the course 'Quantitative analysis and data visualisation' (HSE, 2019)
